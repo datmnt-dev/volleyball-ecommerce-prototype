@@ -1,5 +1,10 @@
 # SÂN/06 — Volleyball E-commerce UI Concept & Prototype
 
+[![Deploy to GitHub Pages](https://github.com/datmnt-dev/volleyball-ecommerce-prototype/actions/workflows/deploy.yml/badge.svg)](https://github.com/datmnt-dev/volleyball-ecommerce-prototype/actions/workflows/deploy.yml)
+
+🌐 **Live Demo:** [https://datmnt-dev.github.io/volleyball-ecommerce-prototype/](https://datmnt-dev.github.io/volleyball-ecommerce-prototype/)  
+📄 **Campaign Landing Page:** [https://datmnt-dev.github.io/volleyball-ecommerce-prototype/landing.html](https://datmnt-dev.github.io/volleyball-ecommerce-prototype/landing.html)
+
 A responsive two-page e-commerce prototype for a modern volleyball brand and apparel concept.
 
 ## 🏐 Project Structure
